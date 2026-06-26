@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   # Admin Dashboard Web Application
 
