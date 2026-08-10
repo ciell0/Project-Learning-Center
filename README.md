@@ -1,6 +1,6 @@
-# BI Malang Learning Center 🏦
+# Project Learning Center 🏦
 
-BI Malang Learning Center is an integrated web platform designed to centralize and digitize services at **Bank Indonesia Malang**, including Library, Internship, GenBI, and BI Corner.
+This Learning Center Platform is an integrated web platform designed to centralize and digitize services at **PT. ABC**, including Library, Internship, Scholarship, and Reading Corner.
 
 ## 📌 Overview
 
@@ -12,8 +12,8 @@ This project aims to provide a **single digital platform** that improves accessi
 
 * 📚 Library service
 * 🎓 Internship registration and management
-* 👥 GenBI information and services
-* 🏛️ BI Corner information
+* 👥 Scholarship information and services
+* 🏛️ Reading Corner information
 * 🔐 User authentication and authorization
 * 📄 Document upload and management
 * 📋 Application tracking
